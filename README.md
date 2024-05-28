@@ -2,6 +2,8 @@
 
 Joboard is a React-based web application designed to help users find job openings that best suit their skills and preferences. This project uses Firebase for data storage and retrieval.
 
+**Deployed URL:** [job-portal-with-firebase.vercel.app](job-portal-with-firebase.vercel.app)
+
 ## Features
 
 - Browse and search for job listings
